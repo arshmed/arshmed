@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Muhammed ARSLAN</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshmed&label=Profile%20views&color=0e75b6&style=flat" alt="arshmed" /> </p>
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/arshmed/e-commerce)
