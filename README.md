@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I am Muhammed ARSLAN</h1>
-<h3 align="center">A Computer Science Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshmed&label=Profile%20views&color=0e75b6&style=flat" alt="arshmed" /> </p>
 
-- 🔭 I’m currently working on [FinFlex](https://github.com/arshmed/finflex)
+- 🔭 I’m currently working on [Ticket Reservation](https://github.com/arshmed/finflex](https://github.com/arshmed/ticket-reservation-microservice))
 
 - 👨‍💻 All of my projects are available in my [GitHub Account](https://github.com/arshmed)
 
-- 💬 Ask me about **Java, Spring Boot, Flutter**
+- 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **arslanmuhammed@outlook.com.tr**
 
